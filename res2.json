@@ -1,0 +1,760 @@
+{
+  "meta": {
+    "status": 200
+  },
+  "data": {
+    "ads": None,
+    "category": None,
+    "channel": None,
+    "client": {
+      "nicosid": "1697252419.138782395",
+      "watchId": "sm35919998",
+      "watchTrackId": "QlcDWlkNGD_2880191010185"
+    },
+    "comment": {
+      "server": {
+        "url": "https://nvcomment.nicovideo.jp/legacy/api/"
+      },
+      "keys": {
+        "userKey": ""
+      },
+      "layers": [
+        {
+          "index": 0,
+          "isTranslucent": False,
+          "threadIds": [
+            {
+              "id": 1573081982,
+              "fork": 1,
+              "forkLabel": "owner"
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "isTranslucent": False,
+          "threadIds": [
+            {
+              "id": 1573081982,
+              "fork": 0,
+              "forkLabel": "main"
+            },
+            {
+              "id": 1573081982,
+              "fork": 2,
+              "forkLabel": "easy"
+            }
+          ]
+        }
+      ],
+      "threads": [
+        {
+          "id": 1573081982,
+          "fork": 1,
+          "forkLabel": "owner",
+          "videoId": "sm35919998",
+          "isActive": False,
+          "isDefaultPostTarget": False,
+          "isEasyCommentPostTarget": False,
+          "isLeafRequired": False,
+          "isOwnerThread": True,
+          "isThreadkeyRequired": False,
+          "threadkey": None,
+          "is184Forced": False,
+          "hasNicoscript": True,
+          "label": "owner",
+          "postkeyStatus": 0,
+          "server": "https://nvcomment.nicovideo.jp/legacy"
+        },
+        {
+          "id": 1573081982,
+          "fork": 0,
+          "forkLabel": "main",
+          "videoId": "sm35919998",
+          "isActive": True,
+          "isDefaultPostTarget": True,
+          "isEasyCommentPostTarget": False,
+          "isLeafRequired": True,
+          "isOwnerThread": False,
+          "isThreadkeyRequired": False,
+          "threadkey": None,
+          "is184Forced": False,
+          "hasNicoscript": False,
+          "label": "default",
+          "postkeyStatus": 0,
+          "server": "https://nvcomment.nicovideo.jp/legacy"
+        },
+        {
+          "id": 1573081982,
+          "fork": 2,
+          "forkLabel": "easy",
+          "videoId": "sm35919998",
+          "isActive": True,
+          "isDefaultPostTarget": False,
+          "isEasyCommentPostTarget": True,
+          "isLeafRequired": True,
+          "isOwnerThread": False,
+          "isThreadkeyRequired": False,
+          "threadkey": None,
+          "is184Forced": False,
+          "hasNicoscript": False,
+          "label": "easy",
+          "postkeyStatus": 0,
+          "server": "https://nvcomment.nicovideo.jp/legacy"
+        }
+      ],
+      "ng": {
+        "ngScore": {
+          "isDisabled": False
+        },
+        "channel": [],
+        "owner": [],
+        "viewer": None
+      },
+      "isAttentionRequired": False,
+      "nvComment": {
+        "threadKey": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2NTJhMDQ0MzdhZGIwIiwiZXhwIjoxNjk3MjUzNzY3LCJ0eXAiOiJUaHJlYWQtS2V5IiwidGlkcyI6WyIxNTczMDgxOTgyIl0sImYxODRzIjpbXX0.LkQ5yY1gesJ_YIqrj19pD88VBYR7sklfWbax6Yuxj_Wnztt2mZ8rAQbqbJqmX9EJh9cwTCtLYaYI_6k-gU4T0Q",
+        "server": "https://nvcomment.nicovideo.jp",
+        "params": {
+          "targets": [
+            {
+              "id": "1573081982",
+              "fork": "owner"
+            },
+            {
+              "id": "1573081982",
+              "fork": "main"
+            },
+            {
+              "id": "1573081982",
+              "fork": "easy"
+            }
+          ],
+          "language": "ja-jp"
+        }
+      }
+    },
+    "community": None,
+    "easyComment": {
+      "phrases": [
+        {
+          "text": "うぽつ",
+          "nicodic": {
+            "title": "うぽつ",
+            "viewTitle": "うぽつ",
+            "summary": "うぽつとはうｐ乙のことでうｐ(アップロード)乙(お疲れ様です)という意味。語源はうｐと乙をローマ字で打つと「うぽつ」（up otu→u po tu）になることから。\n類義語にうぱりがある。\n関連項目\n",
+            "link": "https://dic.nicovideo.jp/a/%E3%81%86%E3%81%BD%E3%81%A4"
+          }
+        },
+        {
+          "text": "www",
+          "nicodic": {
+            "title": "www",
+            "viewTitle": "www",
+            "summary": "wwwとは\n World Wide Web（ワールドワイドウェブ）\n ASIAN KUNG-FU GENERATIONの4thフルアルバム『ワールド\xa0ワールド\xa0ワールド』の省略表記\n QuinRose",
+            "link": "https://dic.nicovideo.jp/a/www"
+          }
+        },
+        {
+          "text": "かわいい",
+          "nicodic": {
+            "title": "かわいい",
+            "viewTitle": "かわいい",
+            "summary": "かわいい（可愛い）とは、愛らしい、愛すべきもの、そういった趣のあるものに心をひかれ、大切にしたい様を表す言葉である。\n概要\n語源は平安時代から見られた「かほはゆし（顔映ゆし）」。＜顔を向けていられない",
+            "link": "https://dic.nicovideo.jp/a/%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84"
+          }
+        },
+        {
+          "text": "かっこいい",
+          "nicodic": {
+            "title": "かっこいい",
+            "viewTitle": "かっこいい",
+            "summary": "かっこいいとは、姿や見た目、言動などが人に好印象を与える意味を表す言葉。「かっこうがいい」の略語。「かっこ」を漢字で、一般的に「格好」、本来では「恰好」と書くこともある。\n相手から「かっこいい」と言わ",
+            "link": "https://dic.nicovideo.jp/a/%E3%81%8B%E3%81%A3%E3%81%93%E3%81%84%E3%81%84"
+          }
+        },
+        {
+          "text": "すき",
+          "nicodic": {
+            "title": "すき",
+            "viewTitle": "すき",
+            "summary": "もしかして? → 好き\nひょっとして? → 鋤\n概要\n隙ありっ! これで全部だと思うたか!?\n関連静画\n関連項目\n すすきの\n 自動リンクされていない記事の一覧",
+            "link": "https://dic.nicovideo.jp/a/%E3%81%99%E3%81%8D"
+          }
+        },
+        {
+          "text": "ここすき",
+          "nicodic": {
+            "title": "ここすき",
+            "viewTitle": "ここすき",
+            "summary": "発祥\nアイマスMAD「もっとすいみんぶそく」が発祥である\n普及\nニコニコ動画での公式アニメ配信以降、他のアニメのOPで「ここすき」というコメントが度々見受けられていたが、\n「花咲くいろは」のOPでの弾",
+            "link": "https://dic.nicovideo.jp/a/%E3%81%93%E3%81%93%E3%81%99%E3%81%8D"
+          }
+        },
+        {
+          "text": "わかる",
+          "nicodic": {
+            "title": "わかる",
+            "viewTitle": "わかる",
+            "summary": "わかるとは、理解・同意していることを指す言葉である。\n概要\n漢字表示は「分かる」「解る」「判る」があるが、「わかる」とひらがなで書くことが比較的多い。「知識として持っている」という意味では「知る」とい",
+            "link": "https://dic.nicovideo.jp/a/%E3%82%8F%E3%81%8B%E3%82%8B"
+          }
+        },
+        {
+          "text": "あっ",
+          "nicodic": None
+        },
+        {
+          "text": "！？",
+          "nicodic": {
+            "title": "!?",
+            "viewTitle": "！？",
+            "summary": "概要!?\n!?とは"強烈"かつ"理解不能"な驚きを示す約物（記号）である…!?\n専門用語では「感嘆符疑問符」という名前である。投げやりじゃねえか!? 略すると「感嘆修辞疑問符」という長ったらしい上によ",
+            "link": "https://dic.nicovideo.jp/a/%21%3F"
+          }
+        },
+        {
+          "text": "おつ",
+          "nicodic": {
+            "title": "おつ",
+            "viewTitle": "おつ",
+            "summary": "乙とは、以下のことを表す。\n 乙（おつ、きのと） - 十干の第2位。五行は木、陰陽は陰。草花を象徴し、協調・社交・和合を意味する。\n 乙（おつ） - 甲で始まる順位の第2位。「乙種」「甲乙つけがたい」",
+            "link": "https://dic.nicovideo.jp/a/%E3%81%8A%E3%81%A4"
+          }
+        },
+        {
+          "text": "88888888",
+          "nicodic": {
+            "title": "88888888",
+            "viewTitle": "88888888",
+            "summary": "8は整数のひとつ。7の次、9の前。\n概要\n酸素(O)の原子番号。\n横に倒すと∞になってしまうので注意。8からずいぶん離れてしまう。\n「八」は末広がりの形をしているため、縁起の良い数とされる。\nニコニコ",
+            "link": "https://dic.nicovideo.jp/a/88888888"
+          }
+        }
+      ]
+    },
+    "external": None,
+    "genre": {
+      "key": "entertainment",
+      "label": "エンターテイメント",
+      "isImmoral": False,
+      "isDisabled": False,
+      "isNotSet": False
+    },
+    "marquee": None,
+    "media": {
+      "delivery": {
+        "recipeId": "nicovideo-sm35919998",
+        "encryption": None,
+        "movie": {
+          "contentId": "out1",
+          "audios": [
+            {
+              "id": "archive_aac_192kbps",
+              "isAvailable": False,
+              "metadata": {
+                "bitrate": 192000,
+                "samplingRate": 44100,
+                "loudness": {
+                  "integratedLoudness": -18,
+                  "truePeak": 3.5
+                },
+                "levelIndex": 1,
+                "loudnessCollection": [
+                  {
+                    "type": "video",
+                    "value": 1
+                  },
+                  {
+                    "type": "pureAdPreroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "houseAdPreroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "networkAdPreroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "pureAdMidroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "houseAdMidroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "networkAdMidroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "pureAdPostroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "houseAdPostroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "networkAdPostroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "nicoadVideoIntroduce",
+                    "value": 0.6309573444801932
+                  },
+                  {
+                    "type": "nicoadBillboard",
+                    "value": 1
+                  },
+                  {
+                    "type": "marquee",
+                    "value": 0.7943282347242815
+                  }
+                ]
+              }
+            },
+            {
+              "id": "archive_aac_64kbps",
+              "isAvailable": True,
+              "metadata": {
+                "bitrate": 64000,
+                "samplingRate": 44100,
+                "loudness": {
+                  "integratedLoudness": -18,
+                  "truePeak": 3.5
+                },
+                "levelIndex": 0,
+                "loudnessCollection": [
+                  {
+                    "type": "video",
+                    "value": 1
+                  },
+                  {
+                    "type": "pureAdPreroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "houseAdPreroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "networkAdPreroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "pureAdMidroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "houseAdMidroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "networkAdMidroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "pureAdPostroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "houseAdPostroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "networkAdPostroll",
+                    "value": 0.5011872336272722
+                  },
+                  {
+                    "type": "nicoadVideoIntroduce",
+                    "value": 0.6309573444801932
+                  },
+                  {
+                    "type": "nicoadBillboard",
+                    "value": 1
+                  },
+                  {
+                    "type": "marquee",
+                    "value": 0.7943282347242815
+                  }
+                ]
+              }
+            }
+          ],
+          "videos": [
+            {
+              "id": "archive_h264_720p",
+              "isAvailable": False,
+              "metadata": {
+                "label": "720p",
+                "bitrate": 2000000,
+                "resolution": {
+                  "width": 1280,
+                  "height": 720
+                },
+                "levelIndex": 3,
+                "recommendedHighestAudioLevelIndex": 1
+              }
+            },
+            {
+              "id": "archive_h264_480p",
+              "isAvailable": False,
+              "metadata": {
+                "label": "480p",
+                "bitrate": 1600000,
+                "resolution": {
+                  "width": 854,
+                  "height": 480
+                },
+                "levelIndex": 2,
+                "recommendedHighestAudioLevelIndex": 1
+              }
+            },
+            {
+              "id": "archive_h264_360p",
+              "isAvailable": True,
+              "metadata": {
+                "label": "360p",
+                "bitrate": 600000,
+                "resolution": {
+                  "width": 640,
+                  "height": 360
+                },
+                "levelIndex": 1,
+                "recommendedHighestAudioLevelIndex": 1
+              }
+            },
+            {
+              "id": "archive_h264_360p_low",
+              "isAvailable": True,
+              "metadata": {
+                "label": "低画質",
+                "bitrate": 300000,
+                "resolution": {
+                  "width": 640,
+                  "height": 360
+                },
+                "levelIndex": 0,
+                "recommendedHighestAudioLevelIndex": 1
+              }
+            }
+          ],
+          "session": {
+            "recipeId": "nicovideo-sm35919998",
+            "playerId": "nicovideo-6-QlcDWlkNGD_2880191010185",
+            "videos": [
+              "archive_h264_360p",
+              "archive_h264_360p_low"
+            ],
+            "audios": [
+              "archive_aac_64kbps"
+            ],
+            "movies": [],
+            "protocols": [
+              "http",
+              "hls"
+            ],
+            "authTypes": {
+              "http": "ht2",
+              "hls": "ht2"
+            },
+            "serviceUserId": "6-QlcDWlkNGD_2880191010185",
+            "token": "{"service_id":"nicovideo","player_id":"nicovideo-6-QlcDWlkNGD_2880191010185","recipe_id":"nicovideo-sm35919998","service_user_id":"6-QlcDWlkNGD_2880191010185","protocols":[{"name":"http","auth_type":"ht2"},{"name":"hls","auth_type":"ht2"}],"videos":["archive_h264_360p","archive_h264_360p_low"],"audios":["archive_aac_64kbps"],"movies":[],"created_time":1697252419000,"expire_time":1697338819000,"content_ids":["out1"],"heartbeat_lifetime":120000,"content_key_timeout":600000,"priority":0,"transfer_presets":[]}",
+            "signature": "75c32342f24734d0f42cfff57e0d84a18b1ef310857e3bd67a43695651c0b41d",
+            "contentId": "out1",
+            "heartbeatLifetime": 120000,
+            "contentKeyTimeout": 600000,
+            "priority": 0,
+            "transferPresets": [],
+            "urls": [
+              {
+                "url": "https://api.dmc.nico/api/sessions",
+                "isWellKnownPort": True,
+                "isSsl": True
+              }
+            ]
+          }
+        },
+        "storyboard": None,
+        "trackingId": "t46qevitxe83cwsrsc90o591ieluoicb+6ekz4bcqw3wcdml9qb5mp0g3sd5jykvzrie26yq0v6ezcmwjrlaj066yxc+nz9qyr31y6fj45a="
+      },
+      "deliveryLegacy": None
+    },
+    "okReason": "PURELY",
+    "owner": {
+      "id": 89343645,
+      "nickname": "とめいと",
+      "iconUrl": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/defaults/blank.jpg",
+      "channel": None,
+      "live": None,
+      "isVideosPublic": True,
+      "isMylistsPublic": True,
+      "videoLiveNotice": None,
+      "viewer": None
+    },
+    "payment": {
+      "video": {
+        "isPpv": False,
+        "isAdmission": False,
+        "isContinuationBenefit": False,
+        "isPremium": False,
+        "watchableUserType": "all",
+        "commentableUserType": "all"
+      },
+      "preview": {
+        "ppv": {
+          "isEnabled": False
+        },
+        "admission": {
+          "isEnabled": False
+        },
+        "continuationBenefit": {
+          "isEnabled": False
+        },
+        "premium": {
+          "isEnabled": False
+        }
+      }
+    },
+    "pcWatchPage": None,
+    "player": {
+      "initialPlayback": None,
+      "comment": {
+        "isDefaultInvisible": False
+      },
+      "layerMode": 0
+    },
+    "ppv": None,
+    "ranking": {
+      "genre": {
+        "rank": 2,
+        "genre": "エンターテイメント",
+        "dateTime": "2021-05-30T11:00:00+09:00"
+      },
+      "popularTag": [
+        {
+          "tag": "Vtuber",
+          "regularizedTag": "VTUBER",
+          "rank": 5,
+          "genre": "エンターテイメント",
+          "dateTime": "2019-11-08T15:00:00+09:00"
+        },
+        {
+          "tag": "にじさんじ",
+          "regularizedTag": "ニジサンジ",
+          "rank": 1,
+          "genre": "エンターテイメント",
+          "dateTime": "2021-05-30T09:00:00+09:00"
+        },
+        {
+          "tag": "バーチャル",
+          "regularizedTag": "バーチャル",
+          "rank": 1,
+          "genre": "エンターテイメント",
+          "dateTime": "2021-05-22T16:00:00+09:00"
+        },
+        {
+          "tag": "バーチャルYouTuber",
+          "regularizedTag": "バーチャルYOUTUBER",
+          "rank": 1,
+          "genre": "エンターテイメント",
+          "dateTime": "2021-05-22T16:00:00+09:00"
+        },
+        {
+          "tag": "バーチャルyoutuber見どころまとめリンク",
+          "regularizedTag": "バーチャルYOUTUBER見ドコロマトメリンク",
+          "rank": 4,
+          "genre": "エンターテイメント",
+          "dateTime": "2020-01-21T19:00:00+09:00"
+        },
+        {
+          "tag": "ホロライブ",
+          "regularizedTag": "ホロライブ",
+          "rank": 1,
+          "genre": "エンターテイメント",
+          "dateTime": "2021-05-22T16:00:00+09:00"
+        }
+      ]
+    },
+    "series": None,
+    "smartphone": None,
+    "system": {
+      "serverTime": "2023-10-14T12:00:19+09:00",
+      "isPeakTime": True
+    },
+    "tag": {
+      "items": [
+        {
+          "name": "おにべろす",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "戌亥とこ",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "百鬼あやめ",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "にじさんじ",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "ホロライブ",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "バーチャル",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "バーチャルYouTuber",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "Vtuber",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        },
+        {
+          "name": "バーチャルyoutuber見どころまとめリンク",
+          "isCategory": False,
+          "isCategoryCandidate": False,
+          "isNicodicArticleExists": True,
+          "isLocked": True
+        }
+      ],
+      "hasR18Tag": False,
+      "isPublishedNicoscript": False,
+      "edit": {
+        "isEditable": False,
+        "uneditableReason": "NEED_LOGIN",
+        "editKey": None
+      },
+      "viewer": None
+    },
+    "video": {
+      "id": "sm35919998",
+      "title": "【おにべろす】出会いから今までまとめ 百鬼あやめ(鬼)と戌亥とこ（ベロス）",
+      "description": "11月10日（日）「おにべろすラジオ」始まるらしい。<br>※追記【#おにべろすラジオ】初めてのおにべろすラジオ<br><a href="https://youtu.be/mtSEhAGnH8E" target="_blank" rel="noopener nofollow">https://youtu.be/mtSEhAGnH8E</a><br><br>元動画<br>【Minecraft】おにべろすマインクラフト----!!!!!【百鬼あやめ視点/#おにべろす】<br><a href="https://youtu.be/0TOhiSH5qw4" target="_blank" rel="noopener nofollow">https://youtu.be/0TOhiSH5qw4</a><br>【Minecraft】鬼とケルベロス、出会う。戌亥視点【戌亥とこ/百鬼あやめ】<br><a href="https://youtu.be/1wP2QoWE7gU" target="_blank" rel="noopener nofollow">https://youtu.be/1wP2QoWE7gU</a><br><br>おにべろす対談【#おにべろす】<br><a href="https://youtu.be/SqvO8b5Thsw" target="_blank" rel="noopener nofollow">https://youtu.be/SqvO8b5Thsw</a><br><br>【Minecraft】おにべろすマイクラ～廃坑探索編～【百鬼あやめ視点/ホロライブ】<br><a href="https://youtu.be/5KYDZMlHWyU" target="_blank" rel="noopener nofollow">https://youtu.be/5KYDZMlHWyU</a><br>【Minecraft】おにべろすマイクラ！恐れるべきは地下での迷子のみ【戌亥とこ/百鬼あやめ】<br><a href="https://youtu.be/dBJdZVI1Pn4" target="_blank" rel="noopener nofollow">https://youtu.be/dBJdZVI1Pn4</a><br><br>【#おにべろす】未開の地見つけちゃった、、、【百鬼あやめ/戌亥とこ】<br><a href="https://youtu.be/Lc1NPKY9JWs" target="_blank" rel="noopener nofollow">https://youtu.be/Lc1NPKY9JWs</a><br>【Minecraft】おにべろすマイクラ！トラップ作りか？廃坑探索か！？【戌亥とこ/百鬼あやめ】<br><a href="https://youtu.be/hBraIPlOggI" target="_blank" rel="noopener nofollow">https://youtu.be/hBraIPlOggI</a><br><br>【#おにべろす】雑おにべろすクラフト\u3000其の参【百鬼視点/ホロライブ】<br><a href="https://youtu.be/ENQIWpSOzUk" target="_blank" rel="noopener nofollow">https://youtu.be/ENQIWpSOzUk</a><br>【Minecraft】おにべろすがゆく！マイクラでなんらかのなにか【戌亥とこ/にじさんじ】<br><a href="https://youtu.be/-JyBuOzbfTo" target="_blank" rel="noopener nofollow">https://youtu.be/-JyBuOzbfTo</a><br><br>戌亥とこ<br><a href="https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg" target="_blank" rel="noopener nofollow">https://www.youtube.com/channel/UCXRlIK3Cw_TJIQC5kSJJQMg</a><br><a href="https://twitter.com/inui_toko" target="_blank" rel="noopener nofollow">https://twitter.com/inui_toko</a><br><br>百鬼あやめ<br><a href="https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg" target="_blank" rel="noopener nofollow">https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg</a><br><a href="https://twitter.com/nakiriayame" target="_blank" rel="noopener nofollow">https://twitter.com/nakiriayame</a>",
+      "count": {
+        "view": 19311930,
+        "comment": 6474450,
+        "mylist": 2891,
+        "like": 3567
+      },
+      "duration": 899,
+      "thumbnail": {
+        "url": "https://nicovideo.cdn.nimg.jp/thumbnails/35919998/35919998.91774912",
+        "middleUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35919998/35919998.91774912.M",
+        "largeUrl": "https://nicovideo.cdn.nimg.jp/thumbnails/35919998/35919998.91774912.L",
+        "player": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/35919998/35919998.91774912.original/a960x540l?key=b427f878dea6f0c4c01a80758f1fea65dc3b2c1aaef1ebef5404732999ca0533",
+        "ogp": "https://img.cdn.nimg.jp/s/nicovideo/thumbnails/35919998/35919998.91774912.original/r1280x720l?key=ae3176cdb302c2f0854164f68f11140ffb39e86797cef45e4025a365972e057c"
+      },
+      "rating": {
+        "isAdult": False
+      },
+      "registeredAt": "2019-11-07T08:13:02+09:00",
+      "isPrivate": False,
+      "isDeleted": False,
+      "isNoBanner": False,
+      "isAuthenticationRequired": False,
+      "isEmbedPlayerAllowed": True,
+      "isGiftAllowed": True,
+      "viewer": None,
+      "watchableUserTypeForPayment": "all",
+      "commentableUserTypeForPayment": "all",
+      "9d091f87": False
+    },
+    "videoAds": {
+      "additionalParams": {
+        "videoId": "sm35919998",
+        "videoDuration": 899,
+        "isAdultRatingNG": False,
+        "isAuthenticationRequired": False,
+        "isR18": False,
+        "nicosid": "1697252419.138782395",
+        "lang": "ja-jp",
+        "watchTrackId": "QlcDWlkNGD_2880191010185",
+        "genre": "entertainment"
+      },
+      "items": [
+        {
+          "type": "preroll",
+          "timingMs": None,
+          "additionalParams": {
+            "linearType": "preroll",
+            "adIdx": 0,
+            "skipType": 1,
+            "skippableType": 1,
+            "pod": 1
+          }
+        },
+        {
+          "type": "postroll",
+          "timingMs": None,
+          "additionalParams": {
+            "linearType": "postroll",
+            "adIdx": 0,
+            "skipType": 1,
+            "skippableType": 1,
+            "pod": 2
+          }
+        }
+      ],
+      "reason": "non_premium_user_ads"
+    },
+    "videoLive": None,
+    "viewer": None,
+    "waku": {
+      "information": None,
+      "bgImages": [],
+      "addContents": None,
+      "addVideo": None,
+      "tagRelatedBanner": {
+        "title": "「MIMI」さんに曲を書いてもらえる！",
+        "imageUrl": "https://wktk.cdn.nimg.jp/wktk/311/image/LtzeHBnneb.jpeg",
+        "description": "VTuberオリジナル曲獲得オーディション、エントリー受付中!!",
+        "isEvent": False,
+        "linkUrl": "https://site.nicovideo.jp/vtuber-audition-orison2",
+        "linkType": "link",
+        "linkOrigin": "https://site.nicovideo.jp/vtuber-audition-orison2",
+        "isNewWindow": False
+      },
+      "tagRelatedMarquee": {
+        "title": "【にじさんじ】剣持刀也、緑仙ほか 9名のライバーが生出演！チャンネル4周年特番を配信！",
+        "linkUrl": "https://live.nicovideo.jp/watch/lv342965008",
+        "linkType": "live",
+        "linkOrigin": "lv342965008",
+        "isNewWindow": False
+      }
+    }
+  }
+}

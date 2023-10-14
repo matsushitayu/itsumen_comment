@@ -1,0 +1,24 @@
+# 200-300
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+# 100-200
+GET https://api.search.nicovideo.jp/api/v2/snapshot/video/contents/search?q=VTuber&targets=tags&fields=contentId,title,commentCounter&filters[viewCounter][gte]=1000&_sort=-commentCounter&_offset=100&_context=apiguide&_limit=100
+Accept: application/json
+
+###
+
+
+###
+GET https://nvcomment.nicovideo.jp/legacy/api.json/thread?nicoru=3&res_from=-1000&scores=1&thread=1576774326&version=20090904&with_global=1
+Accept: application/json
+
+
+
+###
+# VTuberタグの動画のsm番号を取得
+GET https://api.search.nicovideo.jp/api/v2/snapshot/video/contents/search?q=VTuber&targets=tags&fields=contentId,title,commentCounter&filters[viewCounter][gte]=1000&_sort=-commentCounter&_offset=0&_context=apiguide&_limit=100
+
+#続き
+
